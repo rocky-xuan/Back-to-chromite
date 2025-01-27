@@ -1,4 +1,4 @@
-## data
+## Data
 All the raw data in the article is in Source data.xlsx, and the version used when running the code is the organized data.xls.
 
 
