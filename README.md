@@ -1,5 +1,5 @@
 <p>
- <a href="https://doi.org/10.1038/s41467-023-37384-1">
+ <a href="https://doi.org/10.1038/s41467-025-57300-z">
      <img alt="Article DOI" src="https://img.shields.io/badge/DOI-doi-organge.svg?style=plastic">
  </a>
    <a href="https://doi.org/10.5281/zenodo.14744274">
@@ -9,7 +9,7 @@
 # Back to chromite as a mineralogical strategy for long-term chromium pollution control
 Authors: Tianci Hua†, Yanzhang Li†, Yuxuan Hu†, Rongzhang Yin, Yanan Zhang, Bingxu Hou, Houze Lu, Xiang Ji, Xiangzhi Bai, Anhuai Lu, Yan Li*
 
-This repo provides code and data to reproduce the results in the paper for ["Back to chromite as a mineralogical strategy for long-term chromium pollution control"](https://doi.org/10.1038/s41467-023-37384-1).
+This repo provides code and data to reproduce the results in the paper for ["Back to chromite as a mineralogical strategy for long-term chromium pollution control"](https://doi.org/10.1038/s41467-025-57300-z).
 ## Data
 All the raw data in the article is in Source data.xlsx, and the version used when running the code is the organized data.xls.
 
