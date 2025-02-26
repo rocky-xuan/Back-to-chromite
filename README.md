@@ -12,7 +12,7 @@ This repo provides code and data to reproduce the results in the paper for ["Bac
 
 ## 1. Introduction
 <div align="center">
-  <img src="introduction.png" width=70% />
+  <img src="introduction.jpg" width=70% />
 </div>
 
 ## 2. Environment
