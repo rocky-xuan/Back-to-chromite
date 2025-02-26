@@ -8,6 +8,8 @@
  
 # Back to chromite as a mineralogical strategy for long-term chromium pollution control
 Authors: Tianci Hua†, Yanzhang Li†, Yuxuan Hu†, Rongzhang Yin, Yanan Zhang, Bingxu Hou, Houze Lu, Xiang Ji, Xiangzhi Bai, Anhuai Lu, Yan Li*
+
+
 This repo provides code and data to reproduce the results in the paper for ["Back to chromite as a mineralogical strategy for long-term chromium pollution control"](https://doi.org/10.1038/s41467-025-57300-z).
 
 ## 1. Introduction
