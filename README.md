@@ -11,7 +11,9 @@ Authors: Tianci Hua†, Yanzhang Li†, Yuxuan Hu†, Rongzhang Yin, Yanan Zhang
 This repo provides code and data to reproduce the results in the paper for ["Back to chromite as a mineralogical strategy for long-term chromium pollution control"](https://doi.org/10.1038/s41467-025-57300-z).
 
 ## 1. Introduction
-
+<div align="center">
+  <img src="./introduction.png" width=70% />
+</div>
 ## 2. Environment
 We are good in the environment:
 ```
